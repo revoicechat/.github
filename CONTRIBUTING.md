@@ -31,7 +31,7 @@ This project and everyone participating in it is governed by our Code of Conduct
 
 ### Reporting Bugs
 
-Before creating a bug report, please check the [existing issues](https://github.com/your-org/revoicechat/issues) to avoid duplicates.
+Before creating a bug report, please check the [existing issues](https://github.com/revoicechat/revoicechat/issues) to avoid duplicates.
 
 **When reporting a bug, please include:**
 - A clear and descriptive title
@@ -83,11 +83,11 @@ Make sure you have installed:
 
 refer to the setup section of each repository
 
+- 📄 **Main repository:** [revoicechat/revoicechat](https://github.com/revoicechat/revoicechat)
 - 🌐 **Core Server:** [revoicechat/ReVoiceChat-CoreServer](https://github.com/revoicechat/ReVoiceChat-CoreServer)
-- 🌐 **Media Server:** [revoicechat/ReVoiceChat-MediaServer](https://github.com/revoicechat/ReVoiceChat-MediaServer)
+- 🖼️ **Media Server:** [revoicechat/ReVoiceChat-MediaServer](https://github.com/revoicechat/ReVoiceChat-MediaServer)
 - 💻 **Web Client:** [revoicechat/ReVoiceChat-WebClient](https://github.com/revoicechat/ReVoiceChat-WebClient)
 - 💻 **Admin Dashboard:** [revoicechat/ReVoiceChat-AdminDashboard](https://github.com/revoicechat/ReVoiceChat-AdminDashboard)
-- 📱 **Self-host:** [revoicechat/ReVoiceChat-Selfhost](https://github.com/revoicechat/ReVoiceChat-Selfhost)
 
 ---
 
@@ -248,7 +248,7 @@ git branch -d feature/your-feature-name
 
 [//]: # (- 💬 **Discord Community:** [discord.gg/revoicechat]&#40;https://discord.gg/revoicechat&#41;)
 - 📖 **Contributing Guide:** [CONTRIBUTING.md](CONTRIBUTING.md)
-- 🐛 **Report Issues:** [GitHub Issues](https://github.com/revoicechat/ReVoiceChat-Selfhost/issues)
+- 🐛 **Report Issues:** [GitHub Issues](https://github.com/revoicechat/revoicechat/issues)
 
 [//]: # (- 📧 **Contact:** hello@revoicechat.org)
 

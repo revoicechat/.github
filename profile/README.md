@@ -2,7 +2,7 @@
 ![logo_white_screen.png#gh-light-mode-only](images/logo-light-mode.png#gh-light-mode-only)
 
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue)](../LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/revoicechat/ReVoiceChat-Selfhost)](https://github.com/revoicechat/ReVoiceChat-Selfhost)
+[![GitHub stars](https://img.shields.io/github/stars/revoicechat/revoicechat)](https://github.com/revoicechat/revoicechat)
 [![Status](https://img.shields.io/badge/status-beta-yellow)](https://github.com/revoicechat)
 
 > **Take back control of your communications. No tracking, no limits, no subscription.**
@@ -47,8 +47,8 @@ Deploy on your own infrastructure — whether it's a local server, VPS, or priva
 
 ```bash
 # Clone the repository
-git clone --recursive https://github.com/revoicechat/ReVoiceChat-Selfhost.git
-cd ReVoiceChat-Selfhost
+git clone --recursive https://github.com/revoicechat/revoicechat.git
+cd revoicechat
 
 # init project
 ./scripts/init-project.sh
@@ -59,7 +59,7 @@ cd ReVoiceChat-Selfhost
 # Access at http://localhost:3000/App
 ```
 
-📚 **Full documentation:** https://github.com/revoicechat/ReVoiceChat-Selfhost
+📚 **Full documentation:** https://github.com/revoicechat/revoicechat
 
 ---
 
@@ -79,6 +79,7 @@ cd ReVoiceChat-Selfhost
 - **Real-time:** WebSocket, SSE
 - **Database:** PostgreSQL
 - **Deployment:** Docker, Shell scripts
+- **Reverse Proxy:** Nginx
 
 ---
 
@@ -112,7 +113,7 @@ We welcome contributions from everyone! Whether you're fixing bugs, adding featu
 
 [//]: # (- 💬 **Discord Community:** [discord.gg/revoicechat]&#40;https://discord.gg/revoicechat&#41;)
 - 📖 **Contributing Guide:** [CONTRIBUTING.md](CONTRIBUTING.md)
-- 🐛 **Report Issues:** [GitHub Issues](https://github.com/revoicechat/ReVoiceChat-Selfhost/issues)
+- 🐛 **Report Issues:** [GitHub Issues](https://github.com/revoicechat/revoicechat/issues)
 
 [//]: # (- 📧 **Contact:** hello@revoicechat.org)
 
@@ -120,11 +121,11 @@ We welcome contributions from everyone! Whether you're fixing bugs, adding featu
 
 ## 📦 Repositories
 
+- 📄 **Main repository:** [revoicechat/revoicechat](https://github.com/revoicechat/revoicechat)
 - 🌐 **Core Server:** [revoicechat/ReVoiceChat-CoreServer](https://github.com/revoicechat/ReVoiceChat-CoreServer)
-- 🌐 **Media Server:** [revoicechat/ReVoiceChat-MediaServer](https://github.com/revoicechat/ReVoiceChat-MediaServer)
+- 🖼️ **Media Server:** [revoicechat/ReVoiceChat-MediaServer](https://github.com/revoicechat/ReVoiceChat-MediaServer)
 - 💻 **Web Client:** [revoicechat/ReVoiceChat-WebClient](https://github.com/revoicechat/ReVoiceChat-WebClient)
 - 💻 **Admin Dashboard:** [revoicechat/ReVoiceChat-AdminDashboard](https://github.com/revoicechat/ReVoiceChat-AdminDashboard)
-- 📱 **Self-host:** [revoicechat/ReVoiceChat-Selfhost](https://github.com/revoicechat/ReVoiceChat-Selfhost)
 
 ---
 
