@@ -112,7 +112,7 @@ cd revoicechat
 We welcome contributions from everyone! Whether you're fixing bugs, adding features, or improving documentation.
 
 [//]: # (- 💬 **Discord Community:** [discord.gg/revoicechat]&#40;https://discord.gg/revoicechat&#41;)
-- 📖 **Contributing Guide:** [CONTRIBUTING.md](CONTRIBUTING.md)
+- 📖 **Contributing Guide:** [CONTRIBUTING.md](../CONTRIBUTING.md)
 - 🐛 **Report Issues:** [GitHub Issues](https://github.com/revoicechat/revoicechat/issues)
 
 [//]: # (- 📧 **Contact:** hello@revoicechat.org)

@@ -17,7 +17,7 @@ Thank you for your interest in contributing to RevoiceChat! We welcome contribut
 
 ## 📜 Code of Conduct
 
-This project and everyone participating in it is governed by our Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [hello@revoicechat.org](mailto:hello@revoicechat.org).
+This project and everyone participating in it is governed by our Code of Conduct. By participating, you are expected to uphold this code.
 
 **In short:**
 - Be respectful and inclusive
@@ -88,6 +88,9 @@ refer to the setup section of each repository
 - 🖼️ **Media Server:** [revoicechat/ReVoiceChat-MediaServer](https://github.com/revoicechat/ReVoiceChat-MediaServer)
 - 💻 **Web Client:** [revoicechat/ReVoiceChat-WebClient](https://github.com/revoicechat/ReVoiceChat-WebClient)
 - 💻 **Admin Dashboard:** [revoicechat/ReVoiceChat-AdminDashboard](https://github.com/revoicechat/ReVoiceChat-AdminDashboard)
+
+Each project has a `setup-hooks.sh` file providedto make sure you are using the correct commit conventions.
+Please run it before making your first commit. 
 
 ---
 
