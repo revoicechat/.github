@@ -99,7 +99,7 @@ cd revoicechat
 - [x] Real-time messaging
 - [x] Voice calls
 - [x] Organizations & channels
-- [ ] Group video calls
+- [x] Group video calls
 - [ ] End-to-end encryption
 - [x] Mobile applications (iOS & Android)
 - [ ] Plugin system
