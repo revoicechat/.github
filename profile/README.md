@@ -1,5 +1,4 @@
-![logo_black_screen.png#gh-dark-mode-only](images/logo-dark-mode.png#gh-dark-mode-only)
-![logo_white_screen.png#gh-light-mode-only](images/logo-light-mode.png#gh-light-mode-only)
+# [<img src="logo.png" width="50"/>](.idea/icon.svg) RevoiceChat
 
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue)](../LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/revoicechat/revoicechat)](https://github.com/revoicechat/revoicechat)
