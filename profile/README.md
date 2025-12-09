@@ -1,4 +1,4 @@
-# [<img src="logo.png" width="50"/>](.idea/icon.svg) RevoiceChat
+<h1 style="font-size:64px;"><img src="logo.png" height="56"/>RevoiceChat</h1>
 
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue)](../LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/revoicechat/revoicechat)](https://github.com/revoicechat/revoicechat)
