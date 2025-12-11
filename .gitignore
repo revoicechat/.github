@@ -1,6 +1,7 @@
 
 # IntelliJ
-.idea
+.idea/*
+!.idea/icon.svg
 *.ipr
 *.iml
 *.iws
