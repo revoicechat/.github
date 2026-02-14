@@ -8,6 +8,8 @@
 
 RevoiceChat is an open-source and self-hosted platform for instant messaging, VoIP, and social connection. A privacy-focused communication platform that you own and control.
 
+![screenshot](screenshot.png)
+
 ---
 
 ## 🎯 Why RevoiceChat?
