@@ -1,5 +1,3 @@
-# .github/labels.yml
-
 # ── Repo / Scope ──────────────────────────────────────────────────────────────
 - name: "scope: core-server"
   color: "6f42c1"
