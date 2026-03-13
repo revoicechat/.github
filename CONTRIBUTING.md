@@ -87,6 +87,7 @@ refer to the setup section of each repository
 - 🌐 **Core Server:** [revoicechat/ReVoiceChat-CoreServer](https://github.com/revoicechat/ReVoiceChat-CoreServer)
 - 🖼️ **Media Server:** [revoicechat/ReVoiceChat-MediaServer](https://github.com/revoicechat/ReVoiceChat-MediaServer)
 - 💻 **Web Client:** [revoicechat/ReVoiceChat-WebClient](https://github.com/revoicechat/ReVoiceChat-WebClient)
+- 🌍 **Tanslations:** [revoicechat/ReVoiceChat-i18n](https://github.com/revoicechat/ReVoiceChat-i18n)
 
 Each project has a `setup-hooks.sh` file providedto make sure you are using the correct commit conventions.
 Please run it before making your first commit. 
