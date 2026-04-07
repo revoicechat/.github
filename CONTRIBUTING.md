@@ -81,15 +81,9 @@ Make sure you have installed:
 
 ### Setting Up Your Development Environment
 
-refer to the setup section of each repository
+📄 **Main repository:** [revoicechat/revoicechat](https://github.com/revoicechat/revoicechat)
 
-- 📄 **Main repository:** [revoicechat/revoicechat](https://github.com/revoicechat/revoicechat)
-- 🌐 **Core Server:** [revoicechat/ReVoiceChat-CoreServer](https://github.com/revoicechat/ReVoiceChat-CoreServer)
-- 🖼️ **Media Server:** [revoicechat/ReVoiceChat-MediaServer](https://github.com/revoicechat/ReVoiceChat-MediaServer)
-- 💻 **Web Client:** [revoicechat/ReVoiceChat-WebClient](https://github.com/revoicechat/ReVoiceChat-WebClient)
-- 💻 **Admin Dashboard:** [revoicechat/ReVoiceChat-AdminDashboard](https://github.com/revoicechat/ReVoiceChat-AdminDashboard)
-
-Each project has a `setup-hooks.sh` file providedto make sure you are using the correct commit conventions.
+The project has a `setup-hooks.sh` file provided to make sure you are using the correct commit conventions.
 Please run it before making your first commit. 
 
 ---
